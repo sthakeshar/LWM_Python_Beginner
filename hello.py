@@ -12,3 +12,10 @@ print('city: Tokyo')
 
 # this prints my current state
 print('state: Tokyo')
+
+
+
+"""
+this is multi line comment
+"""
+print('today is Thrusday')
